@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/classall/mean-tuto/issues"
   },
-  "homepage": "https://github.com/classall/mean-tuto#readme"
+  "homepage": "https://github.com/classall/mean-tuto#readme",
+  "dependencies": {
+    "angular": "^1.6.10",
+    "angular-route": "^1.6.10",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.16"
+  }
 }
